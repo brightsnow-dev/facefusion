@@ -1,5 +1,6 @@
 from typing import Any, Dict, Optional
 
+
 WORDING : Dict[str, Any] =\
 {
 	'conda_not_activated': 'Conda is not activated',
